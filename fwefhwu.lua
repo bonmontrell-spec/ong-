@@ -720,4 +720,3 @@ function FeaturesUI:create()
     closeBtn.TextSize = 16 * scale
     closeBtn.Font = Enum.Font.GothamBold
     closeBtn.Parent = title
-    
